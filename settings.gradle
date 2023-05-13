@@ -1,0 +1,2 @@
+rootProject.name = "Poke - A Simple Messenger"
+include ':app'
